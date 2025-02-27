@@ -6,19 +6,19 @@
 
 <div align="center">
     <!-- Website -->
-    <a href="https://xiong-cx.github.io/">
+    <a href="https://novex.one/">
         <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
     </a>
     <!-- Mail -->
-    <a href="mailto:dev@#">
+    <a href="mailto:dev@novex.one">
         <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"/>
     </a>
     <!-- Github -->
-    <a href="https://github.com/xiong-cx">
+    <a href="https://github.com/novexone">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <!-- TryHackMe -->
-    <a href="https://tryhackme.com/p/Xiong">
+    <a href="https://tryhackme.com/p/novexone">
         <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
     </a>
 </div>
@@ -57,8 +57,8 @@ const techExperience = {
 ## Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xiong-cx&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6E7681&text_color=6E7681&icon_color=6E7681" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiong-cx&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6E7681&text_color=6E7681" alt="Most Used Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=novexone&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6E7681&text_color=6E7681&icon_color=6E7681" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novexone&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6E7681&text_color=6E7681" alt="Most Used Languages"/>
 </div>
 
 ---
