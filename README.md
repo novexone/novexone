@@ -65,6 +65,6 @@ const techExperience = {
 
 <div align="center">
     <sup>Let's build something amazing together.</sup>
-    <sup>© 2025 Xiong</sup>
+    <sup>© 2025 novex.one</sup>
 </div>
 
