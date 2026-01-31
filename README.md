@@ -51,9 +51,6 @@ const techExperience = {
 
 <div align="center">
     <sup>Let's build something amazing together.</sup>
-    <sup>© <span id="year"></span> novex.one</sup>
+    <sup>© 2026 novex.one</sup>
 </div>
 
-<script>
-document.getElementById('year').textContent = new Date().getFullYear();
-</script>
